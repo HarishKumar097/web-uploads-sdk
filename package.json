@@ -1,6 +1,6 @@
 {
   "name": "@fastpix/uploader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A robust SDK for chunked file uploads.",
   "main": "./dist/uploads.js",
   "module": "./dist/uploads.mjs",
