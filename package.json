@@ -1,6 +1,6 @@
 {
   "name": "@fastpix/uploader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A robust SDK for chunked file uploads.",
   "main": "./dist/uploads.js",
   "module": "./dist/uploads.mjs",
@@ -18,8 +18,7 @@
     "build": "npm run format & npm run build:esm & npm run build:iife & npm run build:cjs"
   },
   "files": [
-    "dist",
-    "src"
+    "dist/*"
   ],
   "keywords": [
     "file upload",
